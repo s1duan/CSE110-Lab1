@@ -1,14 +1,12 @@
 ## Welcome to Stphen's GitHub Pages
 
-My name is Sicong (Stephen) Duan, I am a third-year Computer Engineering Student at UC San Diego. feel free to connect with me and shoot me a message on [LinedIn](https://www.linkedin.com/in/stephen-duan-912977187/) if you have any questions for this GitHub Page!
+My name is Sicong (Stephen) Duan, I am a third-year Computer Engineering Student at UC San Diego. feel free to connect with me and shoot me a message on [LinedIn](https://www.linkedin.com/in/stephen-duan-912977187/) if you have any questions for this GitHub Page! For more information, you can also visit the readme page(../)
 
 ![image](download.png)
 
-This GitHub page is for CSE110 Software Engineering class that I am currently taking
-### Markdown
+### Machine Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+In school, I am interested in Machine Learning researches. I've worked on multiple research and personal fun ML-related projects including 
 ```markdown
 Syntax highlighted code block
 
@@ -35,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having questions? Check out the [documentation](https://docs.github.com/categories/github-pages-basics/) or contact me via [email](s1duan@ucsd.edu).
