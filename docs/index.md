@@ -35,4 +35,4 @@ Besides Machine Learning, I am also very interested in the field of Software Eng
 
 ### Support or Contact
 
-Having questions? Check out the [documentation](https://docs.github.com/categories/github-pages-basics/) or contact me via [email](s1duan@ucsd.edu).
+Having questions? Check out the [documentation](https://docs.github.com/categories/github-pages-basics/) or contact me via **email** (s1duan@ucsd.edu).
