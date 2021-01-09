@@ -6,7 +6,19 @@ My name is Sicong (Stephen) Duan, I am a third-year Computer Engineering Student
 
 ### Machine Learning
 
-In school, I am interested in Machine Learning researches. I've worked on multiple research and personal fun ML-related projects including 
+One of my biggest interests is Machine Learning. I am fascinated by how computers can be trained to do tasks that exhibit intelligent decision making process. In school, I worked with various labs on campus for Machine Learning related projects. Last year I interned at Qualcomm on a Machine Learning project for 5G Network Latency predictions. Some of my research interests are: 
+- Robotics
+- Computer Vision
+- Deep Learning
+
+For most of my Machine Learning projects, I usually follow a list of tasks that help me strucutre my Machine Learning Project:
+- [x] Extract and clean the data
+- [x] Transform data if necessecary and other feature engineering tasks
+- [x] Data visualization
+- [x] Model selection
+- [x] Train, validate and fine-tune the model
+- [x] Deploy model
+
 ```markdown
 Syntax highlighted code block
 
