@@ -4,7 +4,7 @@ My name is Sicong (Stephen) Duan, I am a third-year Computer Engineering Student
 
 ![image](download.png)
 
-This GitHub page is 
+This GitHub page is for CSE110 Software Engineering class that I am currently taking
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
