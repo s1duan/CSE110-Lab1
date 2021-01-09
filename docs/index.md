@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Stphen's GitHub Pages
 
 My name is Sicong (Stephen) Duan, I am a third-year Computer Engineering Student at UC San Diego, feel free to connect with me and shoot me a message on [LinedIn](https://www.linkedin.com/in/stephen-duan-912977187/) if you have any questions for this GitHub Page!
 
+[Image]()
 
+This GitHub page is 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
