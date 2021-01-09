@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/s1duan/CSE110-Lab1/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Sicong (Stephen) Duan, I am a third-year Computer Engineering Student at UC San Diego, feel free to connect with me and shoot me a message on [LinedIn](https://www.linkedin.com/in/stephen-duan-912977187/) if you have any questions for this GitHub Page!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
